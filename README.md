@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="![KTF6M73FKBACNI5JQ4S3EW7MRI](https://github.com/dsf3hj24/Tether-Usdt/assets/163562860/5b3606a8-7e17-452d-9585-30c2487c0f9e)" alt="Tethercoin" width="300"/>
+<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Tethercoin" width="300"/>
 <br/><br/>
 Tethercoin Core [Tether, Ð]  
 </h1>
