@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="tethercoin" width="300"/>
+<img src="https://64.media.tumblr.com/21c0fccaf3e0406ac00cc940cb1681f7/7e9f14b68f281c8f-f4/s250x400/8898096f1cdf374764472f94790fbf6a3c2ccfc3.png" alt="Tethercoin" width="300"/>
 <br/><br/>
 tethercoin Core [tether, Ð]  
 </h1>
@@ -18,7 +18,7 @@ tethercoin là một loại tiền điện tử hướng tới cộng đồng đ
 Để biết thông tin về các khoản phí mặc định được sử dụng trên tethercoin network, vui lòng
 tham khảo [khuyến nghị phí](doc/fee-recommendation.md).
 
-**Website:** [tethercoin.com](https://tethercoin.com)
+**Website:** [tethercoin.com](https://tether.to)
 
 ## Cách sử dụng 💻
 
@@ -86,10 +86,10 @@ về tethercoin, cung cấp hoặc yêu cầu trợ giúp, để chia sẻ dự 
 
 Dưới đây là một số địa điểm để tham quan:
 
-* [tethercoin subreddit](https://www.reddit.com/r/tethercoin/)
-* [tetherducation subreddit](https://www.reddit.com/r/tetherducation/)
-* [Discord](https://discord.gg/tethercoin)
-* [tethercoin Twitter](https://twitter.com/tethercoin)
+* [tethercoin subreddit](https://tether.to)
+* [tetherducation subreddit](https://tether.to)
+* [Discord](https://tether.to)
+* [tethercoin Twitter](https://tether.to)
 
 ## Những Câu Hỏi Thường Gặp ❓
 

@@ -1,7 +1,7 @@
 <h1 align="center">
 tethercoin Core [tether, Ð]  
 <br/><br/>
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="tethercoin" width="300"/>
+<img src="https://64.media.tumblr.com/21c0fccaf3e0406ac00cc940cb1681f7/7e9f14b68f281c8f-f4/s250x400/8898096f1cdf374764472f94790fbf6a3c2ccfc3.png" alt="Tethercoin" width="300"/>
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@ tethercoin é uma criptomoeda gerida pela comunidade que foi inspirada no meme S
 Para maiores informações acerca das taxas de transação usadas na rede tethercoin, por favor acesse: 
 [taxas recomendadas](doc/fee-recommendation.md).
 
-**Website:** [tethercoin.com](https://tethercoin.com)
+**Website:** [tethercoin.com](https://tether.to)
 
 ## Uso 💻
 
@@ -76,10 +76,10 @@ tethercoin, dar e receber ajuda e compartilhar seu projeto.
 
 Aqui estão alguns lugares pra visitar: 
 
-* [tethercoin subreddit](https://www.reddit.com/r/tethercoin/)
-* [tetherducation subreddit](https://www.reddit.com/r/tetherducation/)
-* [Discord](https://discord.gg/tethercoin)
-* [tethercoin Twitter](https://twitter.com/tethercoin)
+* [tethercoin subreddit](https://tether.to)
+* [tetherducation subreddit](https://tether.to)
+* [Discord](https://tether.to)
+* [tethercoin Twitter](https://tether.to)
 
 ## Perguntas frequentes ❓
 

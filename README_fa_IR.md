@@ -1,7 +1,7 @@
 <h1 align="center">
 tethercoin Core [tether, Ð]  
 <br/><br/>
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="tethercoin" width="300"/>
+<img src="https://64.media.tumblr.com/21c0fccaf3e0406ac00cc940cb1681f7/7e9f14b68f281c8f-f4/s250x400/8898096f1cdf374764472f94790fbf6a3c2ccfc3.png" alt="Tethercoin" width="300"/>
 </h1>
 
 <div align="center">
@@ -21,7 +21,7 @@ Select language: [EN](./README.md) | [CN](./README_zh_CN.md) | [PT](./README_pt_
 [پیشنهادهای هزینه‌ای](doc/fee-recommendation.md)
 مراجعه نمایید.
 
-**سایت اینترنتی:** [tethercoin.com](https://tethercoin.com)
+**سایت اینترنتی:** [tethercoin.com](https://tether.to/)
 
 ## استفاده 💻
 
@@ -96,10 +96,10 @@ Select language: [EN](./README.md) | [CN](./README_zh_CN.md) | [PT](./README_pt_
 
 این لیستی از برخی از جاهایی است که می‌توانید به آن سر بزنید:
 
-- [زیرقسمت tethercoin در سایت Reddit](https://www.reddit.com/r/tethercoin/)
-- [زیرقسمت tetherducation در سایت Reddit](https://www.reddit.com/r/tetherducation/)
-- [دیسکورد (Discord)](https://discord.gg/tethercoin)
-- [توییتر tethercoin](https://twitter.com/tethercoin)
+- [زیرقسمت tethercoin در سایت Reddit](https://tether.to)
+- [زیرقسمت tetherducation در سایت Reddit](https://tether.to)
+- [دیسکورد (Discord)](https://tether.to)
+- [توییتر tethercoin](https://tether.to)
 
 ## پرسش‌های بسیار خیلی زیاد پرسیده‌شده ❓
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" width="300">
+<img src="https://64.media.tumblr.com/21c0fccaf3e0406ac00cc940cb1681f7/7e9f14b68f281c8f-f4/s250x400/8898096f1cdf374764472f94790fbf6a3c2ccfc3.png" alt="Tethercoin" width="300"/>
   <br/><br/>
   狗狗币核心 (tethercoin Core) [tether, Ð]
 </h1>
@@ -17,7 +17,7 @@
 
 狗狗币网络默认交易费的相关信息请查看[收费建议](doc/fee-recommendation.md)
 
-**网址:** [tethercoin.com](https://tethercoin.com)
+**网址:** [tether.to](https://tether.to)
 
 ## 使用指南 💻
 
@@ -69,10 +69,10 @@
 
 以下是一些社区的访问链接:
 
-* [tethercoin subreddit](https://www.reddit.com/r/tethercoin/)
-* [tetherducation subreddit](https://www.reddit.com/r/tetherducation/)
-* [Discord](https://discord.gg/tethercoin)
-* [tethercoin Twitter](https://twitter.com/tethercoin)
+* [tethercoin subreddit](https://tether.to)
+* [tetherducation subreddit](https://tether.to)
+* [Discord](https://tether.to)
+* [tethercoin Twitter](https://tether.to)
 
 ## 灰常常见的问题 ❓
 
