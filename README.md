@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://www.tumblr.com/fdsf3/745463560466989056?source=share" alt="Tethercoin" width="300"/>
+<img src="https://ibb.co/K9ZWtt2" alt="Tethercoin" width="300"/>
 <br/><br/>
 Tethercoin Core [Tether, Ð]  
 </h1>
