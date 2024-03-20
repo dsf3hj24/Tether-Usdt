@@ -18,7 +18,7 @@ Tethercoin is a community-driven cryptocurrency that was inspired by a Shiba Inu
 For information about the default fees used on the Tethercoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
 
-**Website:** [Tethercoin.com](https://Tethercoin.com)
+**Website:** [Tethercoin.com](https://tether.to/)
 
 ## Usage 💻
 
@@ -87,10 +87,10 @@ about Tethercoin, give or ask for help, to share your project.
 
 Here are some places to visit:
 
-* [Tethercoin subreddit](https://www.reddit.com/r/Tethercoin/)
-* [Tetherducation subreddit](https://www.reddit.com/r/Tetherducation/)
-* [Discord](https://discord.gg/Tethercoin)
-* [Tethercoin Twitter](https://twitter.com/Tethercoin)
+* [Tethercoin subreddit](https://tether.to/)
+* [Tetherducation subreddit](https://tether.to/)
+* [Discord](hhttps://tether.to/)
+* [Tethercoin Twitter](https://tether.to/)
 
 ## Very Much Frequently Asked Questions ❓
 
